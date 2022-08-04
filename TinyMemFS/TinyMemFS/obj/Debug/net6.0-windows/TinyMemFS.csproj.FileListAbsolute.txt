@@ -1,0 +1,71 @@
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.exe
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.deps.json
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.runtimeconfig.json
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.dll
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.pdb
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.Form1.resources
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfoInputs.cache
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfo.cs
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.dll
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\refint\TinyMemFS.dll
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.pdb
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.genruntimeconfig.cache
+C:\Users\idolo\source\repos\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\ref\TinyMemFS.dll
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.exe
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.deps.json
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.runtimeconfig.json
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.dll
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.pdb
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.AssemblyReference.cache
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.Form1.resources
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.GenerateResource.cache
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfoInputs.cache
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfo.cs
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.dll
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\refint\TinyMemFS.dll
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.pdb
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.genruntimeconfig.cache
+C:\Users\Elad-Dor\Desktop\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\ref\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.exe
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.deps.json
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.runtimeconfig.json
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.pdb
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.AssemblyReference.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.Form1.resources
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.GenerateResource.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfoInputs.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfo.cs
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\refint\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.pdb
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.genruntimeconfig.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFSUpdate\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\ref\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.exe
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.deps.json
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.runtimeconfig.json
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\TinyMemFS.pdb
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.AssemblyReference.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.Form1.resources
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.GenerateResource.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfoInputs.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.AssemblyInfo.cs
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.CoreCompileInputs.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\refint\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.pdb
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.genruntimeconfig.cache
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\ref\TinyMemFS.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.Properties.Resources.resources
+C:\IDDO\לימודים\BGU 21-22\TinyMemFS\TinyMemFS\TinyMemFS\obj\Debug\net6.0-windows\TinyMemFS.csproj.CopyComplete

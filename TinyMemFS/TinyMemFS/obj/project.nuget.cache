@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZg8pM+uVS0/Uj2RTL6gsEl/8PpHocqRld/FSYdIrs/WmrAKD+UiBIlTLhBzS/m5rLRH5pM3ZNKLcDQqvsDqog==",
+  "success": true,
+  "projectFilePath": "C:\\IDDO\\לימודים\\BGU 21-22\\TinyMemFS\\TinyMemFS\\TinyMemFS\\TinyMemFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idolo\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
